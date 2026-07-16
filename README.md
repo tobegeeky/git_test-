@@ -9,9 +9,6 @@ I’m using it to:
 - get comfortable with GitHub & version control stuff
 - break things and fix them
 
-Nothing serious, nothing polished.
-Just practice.
-
 If you’re reading this:
 hi 👋
 
